@@ -1,1 +1,35 @@
-{{ JSON.stringify($json.products, null, 2) }}
+[
+  {
+    "id": "P001",
+    "name": "Pink silk saree",
+    "price": 2499,
+    "images": [
+      "https://drive.google.com/file/d/1q_3WpkwY6ezHcvwF3WVc_8EChAk2zOB3/view?usp=sharing"
+    ],
+    "stock": "In stock",
+    "category": "Saree",
+    "description": "Soft silk saree"
+  },
+  {
+    "id": "P002",
+    "name": "Bridal lehenga red",
+    "price": 5999,
+    "images": [
+      "https://drive.google.com/file/d/1nirMFtfqPwFmIYyM9FHARphR48mts11S/view?usp=sharing"
+    ],
+    "stock": "out of stock",
+    "category": "Lehenga",
+    "description": "Handcrafted bridal lehenga"
+  },
+  {
+    "id": "P003",
+    "name": "Blue organza suit",
+    "price": 1899,
+    "images": [
+      "https://drive.google.com/file/d/1zVTBYIuAUqZJGm7ZmLXAc_6xD7tlggTh/view?usp=sharing"
+    ],
+    "stock": "In stock",
+    "category": "Suit",
+    "description": "Lightweight organza set"
+  }
+]
