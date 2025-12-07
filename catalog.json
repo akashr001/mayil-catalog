@@ -45,11 +45,11 @@
       "description": "fantastic"
     },
     {
-      "id": "POO5",
+      "id": "P005",
       "name": "Saree",
       "price": 500,
       "images": [
-        "https://raw.githubusercontent.com/akashr001/mayil-catalog/main/images/products/POO5.jpg"
+        "https://raw.githubusercontent.com/akashr001/mayil-catalog/main/images/products/P005.jpg"
       ],
       "stock": "In stock",
       "category": "saree",
