@@ -41,8 +41,19 @@
         "https://raw.githubusercontent.com/akashr001/mayil-catalog/main/images/products/P004.jpg"
       ],
       "stock": "In stock",
-      "category": "Chudithat",
+      "category": "Chudithar",
       "description": "fantastic"
+    },
+    {
+      "id": "POO5",
+      "name": "Saree",
+      "price": 500,
+      "images": [
+        "https://raw.githubusercontent.com/akashr001/mayil-catalog/main/images/products/POO5.jpg"
+      ],
+      "stock": "In stock",
+      "category": "saree",
+      "description": ""
     }
   ]
 }
