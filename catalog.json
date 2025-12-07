@@ -1,10 +1,48 @@
 {
-  "row_number": 2,
-  "id": "P001",
-  "name": "Pink silk saree",
-  "price": 2499,
-  "images": "https://drive.google.com/file/d/1q_3WpkwY6ezHcvwF3WVc_8EChAk2zOB3/view?usp=sharing",
-  "stock": "In stock",
-  "category": "Saree",
-  "description": "Soft silk saree"
+  "products": [
+    {
+      "id": "P001",
+      "name": "Pink silk saree",
+      "price": 2499,
+      "images": [
+        "https://raw.githubusercontent.com/akashr001/mayil-catalog/main/images/products/P001.jpg"
+      ],
+      "stock": "In stock",
+      "category": "Saree",
+      "description": "Soft silk saree"
+    },
+    {
+      "id": "P002",
+      "name": "Bridal lehenga red",
+      "price": 5999,
+      "images": [
+        "https://raw.githubusercontent.com/akashr001/mayil-catalog/main/images/products/P002.jpg"
+      ],
+      "stock": "out of stock",
+      "category": "Lehenga",
+      "description": "Handcrafted bridal lehenga"
+    },
+    {
+      "id": "P003",
+      "name": "Blue organza suit",
+      "price": 1899,
+      "images": [
+        "https://raw.githubusercontent.com/akashr001/mayil-catalog/main/images/products/P003.jpg"
+      ],
+      "stock": "In stock",
+      "category": "Suit",
+      "description": "Lightweight organza set"
+    },
+    {
+      "id": "P004",
+      "name": "chudithar",
+      "price": 2000,
+      "images": [
+        "https://raw.githubusercontent.com/akashr001/mayil-catalog/main/images/products/P004.jpg"
+      ],
+      "stock": "In stock",
+      "category": "Chudithat",
+      "description": "fantastic"
+    }
+  ]
 }
