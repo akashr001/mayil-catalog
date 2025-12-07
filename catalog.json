@@ -4,7 +4,7 @@
     "name": "Pink silk saree",
     "price": 2499,
     "images": [
-      "https://drive.google.com/uc?export=view&id=1q_3WpkwY6ezHcvwF3WVc_8EChAk2zOB3"
+      "https://drive.google.com/thumbnail?id=1q_3WpkwY6ezHcvwF3WVc_8EChAk2zOB3&sz=w1000"
     ],
     "stock": "In stock",
     "category": "Saree",
@@ -15,7 +15,7 @@
     "name": "Bridal lehenga red",
     "price": 5999,
     "images": [
-      "https://drive.google.com/uc?export=view&id=1nirMFtfqPwFmIYyM9FHARphR48mts11S"
+      "https://drive.google.com/thumbnail?id=1nirMFtfqPwFmIYyM9FHARphR48mts11S&sz=w1000"
     ],
     "stock": "out of stock",
     "category": "Lehenga",
@@ -26,7 +26,7 @@
     "name": "Blue organza suit",
     "price": 1899,
     "images": [
-      "https://drive.google.com/uc?export=view&id=1zVTBYIuAUqZJGm7ZmLXAc_6xD7tlggTh"
+      "https://drive.google.com/thumbnail?id=1zVTBYIuAUqZJGm7ZmLXAc_6xD7tlggTh&sz=w1000"
     ],
     "stock": "In stock",
     "category": "Suit",
