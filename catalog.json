@@ -1,1 +1,1 @@
-{{ JSON.stringify($json.products, null, 2) }}
+{{ JSON.stringify($items.map(i => i.json), null, 2) }}
