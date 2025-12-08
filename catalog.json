@@ -1,4 +1,12 @@
 {
-  "products": []
+  "products": [
+    {
+      "id": "P1765163428472",
+      "name": "chudithar",
+      "price": "300",
+      "images": [
+        "https://res.cloudinary.com/dawvpshw8/image/upload/v1765162134/s8zymstukf2ocnptjzcb.jpg"
+      ]
+    }
+  ]
 }
-
