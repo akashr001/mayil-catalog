@@ -79,6 +79,14 @@
       "images": [
         "https://res.cloudinary.com/dawvpshw8/image/upload/v1765169888/jzvgdbohwjwxoqquwk91.jpg"
       ]
+    },
+    {
+      "id": "POO1",
+      "name": "lehenga",
+      "price": "800",
+      "images": [
+        "https://res.cloudinary.com/dawvpshw8/image/upload/v1765266013/zb6fynzn0whdrpwfdeos.jpg"
+      ]
     }
   ]
 }
