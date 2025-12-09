@@ -55,6 +55,14 @@
       "images": [
         "https://res.cloudinary.com/dawvpshw8/image/upload/v1765271284/k0qdagpgbzexsbsnwk1k.jpg"
       ]
+    },
+    {
+      "id": "P1765271688150",
+      "name": "Fabric Chudi",
+      "price": "500",
+      "images": [
+        "https://res.cloudinary.com/dawvpshw8/image/upload/v1765271687/dblqibgjimmpbpkqvcgy.jpg"
+      ]
     }
   ]
 }
