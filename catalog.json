@@ -1,14 +1,6 @@
 {
   "products": [
     {
-      "id": "P1765270070642",
-      "name": "Fabric Chudi",
-      "price": "200",
-      "images": [
-        "https://res.cloudinary.com/dawvpshw8/image/upload/v1765270070/jqxdhqn9qsglf5ovdlb6.jpg"
-      ]
-    },
-    {
       "id": "P1765270174240",
       "name": "chudithar",
       "price": "300",
