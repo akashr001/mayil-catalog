@@ -31,6 +31,14 @@
       "images": [
         "https://res.cloudinary.com/dawvpshw8/image/upload/v1765377883/ujtyc2enfnvnp1bdfkgo.jpg"
       ]
+    },
+    {
+      "id": "P108",
+      "name": "Fabric Chudi",
+      "price": "700",
+      "images": [
+        "https://res.cloudinary.com/dawvpshw8/image/upload/v1765379622/xgyhekzng7nfx1j521vj.jpg"
+      ]
     }
   ]
 }
