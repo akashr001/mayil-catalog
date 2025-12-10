@@ -71,6 +71,14 @@
       "images": [
         "https://res.cloudinary.com/dawvpshw8/image/upload/v1765272287/jni3h8iqqh1bslunvw9n.jpg"
       ]
+    },
+    {
+      "id": "JANPRO1",
+      "name": "lehenga",
+      "price": "950",
+      "images": [
+        "https://res.cloudinary.com/dawvpshw8/image/upload/v1765377883/ujtyc2enfnvnp1bdfkgo.jpg"
+      ]
     }
   ]
 }
